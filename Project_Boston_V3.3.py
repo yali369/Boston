@@ -11,7 +11,7 @@ import time
 from tqdm import tqdm
 
 # Replace with your actual GitHub token
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'xxx'
 headers = {'Authorization': f'token {GITHUB_TOKEN}'}
 
 
